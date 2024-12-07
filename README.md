@@ -18,7 +18,3 @@ The **Collatz Conjecture**, also known as the 3n + 1 conjecture, is a mathematic
 ## Importance:
 
 - The Collatz Conjecture is an example of a simple problem that is easy to understand yet remains unsolved, illustrating the complexity of number theory.
-
-## Summary
-
-The Collatz Conjecture poses a simple iterative process that leads to a profound question about the behavior of numbers, captivating mathematicians for decades.
